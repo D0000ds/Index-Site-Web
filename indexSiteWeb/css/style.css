@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+
+/******************************** Header **********************/
+header{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+/* ********************************Body**************************** */
+.ListDiv{
+    border-bottom: black solid;
+}
